@@ -22,6 +22,8 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -31,10 +33,9 @@
 
 <br/>
 
-<a href="https://github.com/resyahrial">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=resyahrial&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyahrial&theme=buefy&layout=compact" />
-</a>
+<h3> Github Stats </h3>
+
+[![Rangga Eki Syahrial GitHub Stats](https://github-readme-stats.vercel.app/api?username=resyahrial&show_icons=true&count_private=true)](https://github.com/resyahrial)
 
 <br/>
 
